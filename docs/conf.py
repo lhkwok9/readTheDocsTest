@@ -33,5 +33,7 @@ html_context = {
   'display_github': True,
   'github_user': 'lhkwok9',
   'github_repo': 'readTheDocsTest',
-  'github_version': 'main/docs/',
+  'github_version': 'main',
+  'conf_py_path': '/docs/',
 }
+html_show_sourcelink = False
