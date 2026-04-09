@@ -1,7 +1,7 @@
 .. _connectivity_intro:
 
 ************
-Introduction
+Connectivity
 ************
 
 There is only one way to connect the wires.
