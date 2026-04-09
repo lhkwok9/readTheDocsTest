@@ -28,3 +28,10 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_logo = 'images/drawers-icon.svg'
+
+html_context = {
+  'display_github': True,
+  'github_user': 'lhkwok9',
+  'github_repo': 'readTheDocsTest',
+  'github_version': 'main/docs/',
+}
