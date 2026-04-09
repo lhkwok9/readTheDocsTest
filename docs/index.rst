@@ -14,3 +14,5 @@ documentation for details.
    pages/introduction
    pages/setup
    pages/connectivity
+   pages/hardware
+
